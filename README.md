@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gtrembath
-- 👀 I’m interested in expanding my comfort zone
+- 👀 I'm brand new to coding 
 - 🌱 I’m currently learning Python
-- 📫 How to reach me @gracetrembath on Twitter
+- 📫 You can reach me at @gracetrembath on Twitter
 
 <!---
 gtrembath/gtrembath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
